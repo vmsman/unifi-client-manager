@@ -29,8 +29,7 @@ Designed for administrators who need significantly more visibility and cleanup c
 
 # Screenshots
 
-![UniFi Client Reservation Manager](https://raw.githubusercontent.com/scottibyte/unifi-client-manager/main/screenshots/unifi-client-manager-main.png)
-
+![UniFi Client Reservation Manager](https://raw.githubusercontent.com/vmsman/unifi-client-manager/main/screenshots/unifi-client-manager-main.png)
 ---
 
 # Docker Deployment
